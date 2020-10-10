@@ -1,0 +1,4 @@
+C:\Users\Programacion\source\repos\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\TiendaRopa.csprojAssemblyReference.cache
+C:\Users\Programacion\source\repos\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\TiendaRopa.AssemblyInfoInputs.cache
+C:\Users\Programacion\source\repos\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\TiendaRopa.AssemblyInfo.cs
+C:\Users\Programacion\source\repos\TiendaRopa\TiendaRopa\obj\Debug\netcoreapp3.1\TiendaRopa.csproj.CoreCompileInputs.cache

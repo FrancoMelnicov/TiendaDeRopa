@@ -1,5 +1,5 @@
 1. ¿C# permite herencia múltiple?
-La herencia multiple permite poder heredar los atributos y metdoso de mas de una clase.
+La herencia multiple permite poder heredar los atributos y metdoso de mas de una superclase.
 
 2. ¿Cuándo utilizaría una Clase Abstracta en lugar de una Interfaz? Ejemplifique.
 La clase abstracta se usaria principalmente para  una clase padre, la cual nunca va a ser instanciada. Mientras que la interfaz se usa principalmente para que mas de una clase puedan usar el mismo metodo. 
